@@ -1,5 +1,5 @@
 # FreeIPCC-AiChat
-在线客服聊天机器人，官网聊天机器人，AI客服，大模型，chatbot，大模型在线客服！！！
+LLM,大模型客服机器人，在线客服聊天机器人，官网聊天机器人，AI客服，大模型，chatbot，大模型在线客服！！！
 官方WeChat:freeipcc
 
 ![image](https://github.com/user-attachments/assets/11493b99-3697-4fa5-90d0-6313a9845673)
