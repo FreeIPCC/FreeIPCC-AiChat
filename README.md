@@ -1,5 +1,5 @@
 # FreeIPCC-AiChat
-LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机器人，在线客服聊天机器人，官网聊天机器人，AI客服，大模型，chatbot，大模型在线客服！！！
+LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机器人，在线客服聊天机器人，官网聊天机器人，AI客服，大模型，chatbot，大模型在线客服！！
 
 多渠道回复！！！
 官方WeChat:freeipcc
