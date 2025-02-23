@@ -11,5 +11,3 @@ LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机�
 ![image](https://github.com/user-attachments/assets/f16a5a47-389a-49c9-8d30-d0699f8e06da)
 
 ## 😄表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
-
-
