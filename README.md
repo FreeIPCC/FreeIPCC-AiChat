@@ -4,6 +4,8 @@ LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机�
 多渠道回复！！！
 官方WeChat:freeipcc
 
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/3964e406-c23b-408a-8ffe-befd3acc9a8b)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/58b9c92d-7e63-4487-a3b7-917f1c95a2d4)
 ![image](https://github.com/user-attachments/assets/11493b99-3697-4fa5-90d0-6313a9845673)
 ![image](https://github.com/user-attachments/assets/6b01ae59-143d-42c5-bac0-9d395b39d1e8)
 ![image](https://github.com/user-attachments/assets/32ad35f1-665c-4f6d-94ae-4b77ba9a6825)
