@@ -4,9 +4,7 @@ LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机�
 多渠道回复！！！
 官方WeChat:freeipcc
 
-![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/3964e406-c23b-408a-8ffe-befd3acc9a8b)
-
-## 😄表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
+## 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
 
 # 附：团队的开源呼叫中心系统FreeAICC（AI Call Center）的愿景与基础功能阐述
 愿景：
