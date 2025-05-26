@@ -49,6 +49,7 @@ LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机�
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/e719eecf-ada9-4204-b650-dc9af123012c)
 
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
