@@ -4,7 +4,6 @@ LLM,Langchain，RAG搜索模块，大模型聊天机器人，大模型客服机�
 多渠道回复！！！
 
 官方WeChat01: freeipcc
-
 官方Wechat02: freeaicc
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
